@@ -1,1 +1,11 @@
+This is a .zip of a Moun River workspace featuring the 1st set of CanHobby Examples for the peripherals in the CH32V003
+
+Download and unzip into a separate directory then open that directory as a workspace in the Moun River Studio IDE.
+this 1st set features:
+
+- UART - printf output, Interrupt driven input with a Menu as example.
+- SysClk - confiured to Max 48 MHz.
+- ChipID with full example to show the Chip version.
+- Timer blinking an LED with the Base Frequency controlled from the Menu.
+- SisTick blinking an LED with the Base Frequency controlled from the Menu.
 
